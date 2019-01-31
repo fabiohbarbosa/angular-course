@@ -24,7 +24,7 @@
 
     1. Interfaces
     1. Enums
-    1. And amazing .d.ts
+    1. And the amazing `.d.ts`
 
     To avoid common mistakes you should read the section `Do's and Don'ts`:
     https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html
