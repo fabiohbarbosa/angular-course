@@ -17,7 +17,7 @@
 
     Typescript is a superset of Javascript, this is means all things that you write in Javascript is supported by Typescript.
 
-    The most popular and useful features are:
+	The most popular and useful features are:
 
     1. Type Annotations
         Basic types: https://www.typescriptlang.org/docs/handbook/basic-types.html
@@ -29,7 +29,7 @@
     To avoid common mistakes you should read the section `Do's and Don'ts`:
     https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html
 
-Official website: https://www.typescriptlang.org/
+    Official website: https://www.typescriptlang.org/
 
 
 2. TypeScript e ES6 na prática
