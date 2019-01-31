@@ -1,0 +1,23 @@
+{
+  "name": "angular-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run clean:build && npm run build && node build/index.js",
+    "build:clean": "rm -rf build/",
+    "build:tsc": "tsc",
+    "build": "npm run build:clean && npm run build:tsc",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "npm run clean:build && tsc src/index.ts --outDir build/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.2.4"
+  },
+  "dependencies": {
+    "@types/node": "^10.12.20"
+  }
+}
